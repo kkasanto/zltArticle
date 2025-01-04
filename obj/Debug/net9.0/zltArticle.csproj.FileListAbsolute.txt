@@ -699,3 +699,4 @@ C:\Users\kk\OneDrive\Udvikling\zltArticle\zltArticle\obj\Debug\net9.0\refint\zlt
 C:\Users\kk\OneDrive\Udvikling\zltArticle\zltArticle\obj\Debug\net9.0\zltArticle.pdb
 C:\Users\kk\OneDrive\Udvikling\zltArticle\zltArticle\obj\Debug\net9.0\zltArticle.genruntimeconfig.cache
 C:\Users\kk\OneDrive\Udvikling\zltArticle\zltArticle\obj\Debug\net9.0\ref\zltArticle.dll
+C:\Users\kk\OneDrive\Udvikling\zltArticle\zltArticle\obj\Debug\net9.0\zltArticle.sourcelink.json

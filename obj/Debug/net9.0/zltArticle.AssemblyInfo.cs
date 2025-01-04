@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zltArticle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+608ff792491429d7dfe6cbe1244de0fdc2c6052a")]
 [assembly: System.Reflection.AssemblyProductAttribute("zltArticle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zltArticle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
